@@ -1,0 +1,13 @@
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\Study\itra\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.csproj.CoreCompileInputs.cache
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.pdb
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.genruntimeconfig.cache
+C:\Study\itra\task3\obj\Debug\netcoreapp3.1\task3.csprojAssemblyReference.cache
